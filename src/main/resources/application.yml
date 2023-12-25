@@ -1,0 +1,5 @@
+app:
+  person:
+    name: "Alexander"
+    surname: "Efimov"
+    age: 30
